@@ -1,0 +1,27 @@
+//User input Golang
+package main
+
+import "fmt"
+
+func main() {
+	var num int
+	fmt.Println("Enter the number:")
+	fmt.Scanln(&num)
+	fmt.Printf("The entered number is :%v\n", num)
+
+	var name string
+	fmt.Println("Enter the name:")
+	fmt.Scanln(&name)
+	fmt.Printf("The entered name is :%v\n", name)
+
+}
+
+
+OUTPUT:
+
+          Enter the number:
+          23
+          The entered number is :23
+          Enter the name:
+          Naveen
+          The entered name is :Naveen
