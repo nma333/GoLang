@@ -1,1 +1,31 @@
+package main
 
+import "fmt"
+
+func main() {
+	var num int
+
+	fmt.Println("Enter your number :")
+	fmt.Scanln(&num)
+	fmt.Printf("\nValue of %d in different number system is as follows:", num)
+	fmt.Println(" \nThe value of num in decimal is:", num)
+
+	fmt.Printf(" The value of num in Hexadecimal is: %x\n", num)
+
+	fmt.Printf(" The value of num in Binary is: %b\n", num)
+
+	fmt.Printf(" The value of num in Octal  is: %o\n", num)
+
+}
+
+
+
+OutPut:
+              Enter your number :
+              19
+
+              Value of 19 in different number system is as follows:
+              The value of num in decimal is: 19
+               The value of num in Hexadecimal is: 13
+               The value of num in Binary is: 10011
+               The value of num in Octal  is: 23
