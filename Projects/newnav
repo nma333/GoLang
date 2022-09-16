@@ -69,7 +69,7 @@
               <a class="nav-link dropdown-toggle text-light " href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-size: 2vw;">
                 About Us
               </a>
-              <div class="dropdown-menu active" aria-labelledby="navbarDropdown" >
+              <div class="dropdown-menu active bg-warning" aria-labelledby="navbarDropdown" >
                 <a class="dropdown-item" href="#">
                   Our story </a>
                 <a class="dropdown-item" href="#">
@@ -83,10 +83,10 @@
               </div>
             </li>
             <li class="nav-item dropdown ">
-              <a class="nav-link dropdown-toggle  text-light" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-size: 2vw;">
+              <a class="nav-link dropdown-toggle  text-light " href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-size: 2vw;">
                 Our Programs
               </a>
-              <div class="dropdown-menu active" aria-labelledby="navbarDropdown">
+              <div class="dropdown-menu active bg-warning" aria-labelledby="navbarDropdown">
                 <a class="dropdown-item" href="#">
                   Campus 1:Hangrapura</a>
                 <a class="dropdown-item" href="#">
@@ -104,7 +104,7 @@
               <a class="nav-link dropdown-toggle text-light " href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-size: 2vw;">
                 Our Programs
               </a>
-              <div class="dropdown-menu active" aria-labelledby="navbarDropdown">
+              <div class="dropdown-menu active bg-warning" aria-labelledby="navbarDropdown">
                
                 <a href="#" class="dropdown-item">Write to us</a>
                 <a href="#" class="dropdown-item">Volunteer</a>
